@@ -4,8 +4,7 @@
   "description": "Server Side Todo Application",
   "main": "src/index.js",
   "scripts": {
-    "start": "nodemon src/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon src/index.js"
   },
   "type": "module",
   "author": "",
