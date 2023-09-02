@@ -10,10 +10,6 @@ A simple chat application using express.js to develop APIs
 
 ## TechStack
 
-List of all the technologies which were used to develop this project
-
-### Backend: 
-
 | Tech | Usage |
 | :- | - |
 | [`Express.js`][1] | Web application framework to handle HTTP request and responses |
