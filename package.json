@@ -1,14 +1,14 @@
 {
-  "name": "todo",
+  "name": "Chat",
   "version": "1.0.0",
-  "description": "Server Side Todo Application",
+  "description": "One to one chat application",
   "main": "src/index.ts",
   "scripts": {
     "dev": "set NODE_ENV=development&& nodemon src/index.ts",
     "start": "set NODE_ENV=production&& ts-node src/index.ts"
   },
   "type": "module",
-  "author": "",
+  "author": "Darshan Javiya",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
