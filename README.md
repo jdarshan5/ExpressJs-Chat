@@ -49,7 +49,7 @@ same goes for the .env.prod file
 
 ### step - 3: Running our node application
 
-For Development: `npm dev`
+For Development: `npm run dev`
 
 For Production: `npm start`
 
